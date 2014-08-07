@@ -2,6 +2,8 @@
 
 Responsive font made easy with JavaScript. No jQuery required.
 
+Visit http://fluidfont.attilioweb.com for more
+
 ##Usage##
 * Makes the font within a wrapper responsive. Wrapper must have a defined width.
 * All font sizes are in px.
@@ -64,3 +66,5 @@ for(var i=0 ; i < elements.length ; i++) {
 	elements[i].fluidFont(percent);
 }
 ```
+
+Visit http://fluidfont.attilioweb.com for more
